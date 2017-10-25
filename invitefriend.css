@@ -1,0 +1,46 @@
+.invite-body {
+    width: 7566px;
+    height: 800px;
+    margin-left: 100px;
+    border-style: solid;
+    border-color: #0F3B75;
+}
+.invite-head>h3{
+    text-align: right;
+}
+.invite-head{
+    width: 756px;
+    height: 74px;
+    margin-left: 100px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+#invite-btn{
+    width: 350px;
+    height: 60px;
+    margin-left: 28%;
+    margin-top: 30px;
+    background-color: #0F3B75;
+    color: #ffffff;
+}
+#invitebox{
+    width: 350px;
+    height: 60px;
+    margin-top: 2px;
+    margin-left: 28%;
+    padding: 20px;
+    color: #0F3B75;
+    border-color: #0F3B75;
+    border-style: solid;
+    border-width: 1px;
+}
+.text{
+    text-align: center;
+    margin-top: 100px;
+    color: #0F3B75;
+}
+.refcode> h5{
+    margin-left: 62%;
+    margin-top: 100px;
+    color: #0F3B75 ;
+}
